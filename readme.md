@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,angular,react,bootstrap" alt="Tech Stack Line 1">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,sqlite,bitbucket,github,vscode" alt="Tech Stack Line 2">
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgresql,bitbucket,github,vscode" alt="Tech Stack Line 2">
 </p>
 
 
